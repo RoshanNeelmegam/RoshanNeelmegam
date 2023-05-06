@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @RoshanNeelmegam
-- 👀 I’m interested in scripting
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on automation scripts
+
 
 
 <!---
